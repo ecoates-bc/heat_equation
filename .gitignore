@@ -1,0 +1,5 @@
+dune
+dune-env
+spack
+.ipynb_checkpoints
+.vscode
